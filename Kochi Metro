@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+    <title>JCI Kochin Metro</title>
+    <link rel="stylesheet" href="style.css">
+
+    <script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+
+
+
+
+</head>
+          <style>
+                 body{
+                        background-image:url(baked-goods-bread-bright-1191639.jpg);
+                        background-size: cover;
+                        background-attachent:fixed;
+                        background-repeat:no repeat;
+
+                     }
+              </style>
+<body>
+       <divc class="hero">
+           <div data-tilt class="inner"></div>
+              <h1>Contacts : 9605766946</h1>
+              <h2>This is an initiative by the Gen Zs of the club. </h2>
+       </div>
+
+       <script src="
+https://cdnjs.cloudflare.com/ajax/libs/tilt.js/1.2.1/tilt.jquery.min.js"></script>
+
+
+
+</body>
+</html>
